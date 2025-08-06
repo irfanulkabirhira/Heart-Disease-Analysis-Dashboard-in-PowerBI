@@ -3,7 +3,7 @@ The Purpose of this tutorial is to demonstrate how to create Step by Step Dynami
 
 Heart Disease Analysis Dashboard in PowerBI
 
-![image alt](https://github.com/irfanulkabirhira/Amazon-Sales-yearly-Product-s-Dashboard-Creation/blob/10c6d2726d9aabc312517472a352e8270a994a53/Amazon%20Sales%20DashBoarad%20Creation.png)
+![image alt](https://github.com/irfanulkabirhira/Heart-Disease-Analysis-Dashboard-in-PowerBI/blob/9cbb2f7b2a6fc2650a9ab7211c212722da502129/Project%20image.png)
 
 The Purpose of this tutorial is to demonstrate how to create Step by Step Dynamic Heart Disease Analysis Dashboard Using PowerBI.
 
